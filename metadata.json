@@ -1,0 +1,6 @@
+{
+  "name": "PadelMatch",
+  "description": "Plataforma deportiva de pádel: registro de usuarios con PIN de seguridad, ranking de jugadores y espacio para buscar compañeros de partido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
